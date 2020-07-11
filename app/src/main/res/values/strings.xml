@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Veedyo</string>
+  <string name="api_key">ltZS9xE4EekrCNRnyEOvipdrq4LAVr7VOMzCpvQU</string>
+
+  <string name="title_activity_fullscreen">FullscreenActivity</string>
+  <string name="change_layout_manager">Change Layout</string>
+</resources>
